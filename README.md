@@ -1,2 +1,2 @@
 # AI-chatbot-Llama-
-Hey! It is an AI chatbot which can answer to almost anything. It uses the llama 3.3 LLM same as meta to give you an informative and accurate response. It is a free model which can be integrated into the project without incurring any costs. 
+Hey! It is an AI chatbot which can answer to almost anything. It uses the llama 3.3 LLM same as meta to give you an informative and accurate response. It is a free model which can be integrated into the project without incurring any costs. One has to install the required dependencies as well as install llama from their site. This project is very minimalist considering it's UI as I have paid more attention to it's functioning than the UI itself. 
